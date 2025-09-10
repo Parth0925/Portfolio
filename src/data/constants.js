@@ -234,8 +234,8 @@ export const projects = [
       "/assets/greek.png",
     tags: ["React", "DHAN option-chain API"],
     category: "web app",
-    github: "https://github.com/Parth0925/Option-greeks",
-    live: "https://option-greeks.netlify.app/",
+    github: "https://github.com/Parth0925/AI_Image_generator",
+    live: "https://ai-imagee-generator.netlify.app/",
   },
 ];
 
