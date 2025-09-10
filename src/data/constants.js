@@ -227,9 +227,9 @@ export const projects = [
   },
   {
     id: 3,
-    title: "Option Greeks Analyzer",
+    title: "AI Image Generator",
     description:
-      "Built an Option Greeks Analyzer in React that fetches live data from RESTful APIs. Designed a structured data table for option chains, option Greeks, and displayed results in an optimized, user-friendly UI for financial analysis.",
+      "AI Image Generation App built with MERN Stack. Users can generate AI-powered images from text prompts with a simple and clean UI. Deployed on Netlify for frontend and Render/Heroku for backend.",
     image:
       "/assets/greek.png",
     tags: ["React", "DHAN option-chain API"],
