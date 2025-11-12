@@ -7,7 +7,7 @@ export const Bio = {
     "I’m a curious and driven individual with a strong passion for creative problem-solving and continuous learning. Whether I’m building something new or refining existing work, I focus on thoughtful, impactful results. I thrive in collaborative environments and enjoy turning ideas into practical solutions that make a difference.",
   github: "https://github.com/Parth0925",
   resume:
-    "https://drive.google.com/file/d/15VKD_u8_9ipq04DVdiEZ4IfJsY4SryGr/view?usp=sharing",
+    "https://drive.google.com/file/d/1QwQZF7Alm_DQUwi0tBM52bHEbsijidr6/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/parth-dholakiya-6701a3327/",
   github: "https://github.com/Parth0925/",
   geekforgeeks: "https://www.geeksforgeeks.org/user/parthsonq42j/",
@@ -238,4 +238,5 @@ export const projects = [
     live: "https://ai-imagee-generator.netlify.app/",
   },
 ];
+
 
